@@ -1,4 +1,16 @@
 
+
+
+| カテゴリ | サービス・プラットフォーム |
+| --- | --- |
+| **本 / マンガ** | Amazon, BookLive, ピッコマ, LINEマンガ, 出版社系 |
+| **動画** | YouTube, TikTok |
+| **映画 / ドラマ / アニメ** | Netflix, Prime Video, U-NEXT, Abema |
+
+
+
+
+
 ---
 
 ### 1. TypeScriptの歴史と人気
