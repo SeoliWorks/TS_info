@@ -1,7 +1,6 @@
 
 
 
-| --- | --- |
 | **本 / マンガ** | Amazon, BookLive, ピッコマ, LINEマンガ, 出版社系 |
 | **動画** | YouTube, TikTok |
 | **映画 / ドラマ / アニメ** | Netflix, Prime Video, U-NEXT, Abema |
