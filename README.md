@@ -4,9 +4,7 @@
 | --- | --- |
 | **本 / マンガ** | Amazon, BookLive, めちゃコミ, 出版社系 |
 | **映画 / ドラマ / アニメ** | Netflix, Prime Video, U-NEXT, Abema |
-| **音楽** | AppleMusic, Spotify |
-| **動画** | YouTube, Tiktok |
-
+| **音楽 / 動画** | YouTube, AppleMusic, Spotify |
 
 
 ---
